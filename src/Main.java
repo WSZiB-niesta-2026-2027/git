@@ -16,4 +16,6 @@ void main() {
     //zmiany w kodzie
 
     //commit 2
+
+    //commit 3
 }
