@@ -20,4 +20,6 @@ void main() {
     //commit 3
 
     //zmiana w branchu b
+
+    //zmiana na brznchu a
 }
