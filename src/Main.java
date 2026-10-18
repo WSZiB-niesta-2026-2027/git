@@ -14,4 +14,6 @@ void main() {
     //cos tam nowego
 
     //zmiany w kodzie
+
+    //commit 2
 }
